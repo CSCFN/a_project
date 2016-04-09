@@ -1,2 +1,2 @@
 # a_project
-A document to test commiting and such.
+A document to test committing and such.
