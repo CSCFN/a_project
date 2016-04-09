@@ -1,4 +1,6 @@
 # a_project
+
+// debug, remove this line later
 Made a change in dev 1.
 Making another change in Dev 2, more changes, further changes are being made.
 
@@ -6,6 +8,8 @@ Making another change in Dev 2, more changes, further changes are being made.
 for (int i=0,i<10,i++) {
 	print(i + " items").
 }
+
+//debug, not sure what's going on here
 
 // change this to a modal window later, less intrusive
 
