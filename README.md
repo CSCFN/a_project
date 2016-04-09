@@ -2,6 +2,8 @@
 Made a change in dev 1.
 Making another change in Dev 2, more changes, further changes are being made.
 
+// generate the list of items
+
 int j = 0;
 
 for (int i=0,i<10,i++) {
@@ -9,5 +11,7 @@ for (int i=0,i<10,i++) {
 	j++;
 }
 
-alert("This is ready for prod. Created " + j + " items.");
-alert("Job's done.");
+// change this to a modal window later, less intrusive
+
+alert("This is ready for prod");
+alert("Job's done."); 
